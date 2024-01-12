@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #000000; /* Couleur de fond un peu plus claire */
+}
+
+canvas {
+    display: block;
+    margin: 70px auto; /* Centrer le canvas */
+    background-color: black; /* Couleur de fond du canvas */
+}
